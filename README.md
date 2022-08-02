@@ -1,4 +1,4 @@
-# Plant_Disease_Detection
+# Plant Disease Detection ☘
 
 This model tries to find out if there is a disease in the crop or not. It takes an RGB image of the plant’ leaf and determines if this plant is healthy or has a disease, and if it has a disease, it determines which kind of disease is in order to help the farmer to find a suitable treatment. For example, if you enter an apple leaf image, it will tell you if it is a healthy apple or has a disease like ‘apple scape’ or ‘black rot'. This is done by extracting some features from the leaf image and then classifying the disease based on these features. 
 <br>
